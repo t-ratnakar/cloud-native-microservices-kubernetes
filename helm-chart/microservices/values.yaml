@@ -1,0 +1,7 @@
+frontend:
+  image: bobbylab/frontend:v1
+
+backend:
+  image: bobbylab/backend:v1
+
+replicaCount: 2
